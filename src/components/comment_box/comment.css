@@ -1,0 +1,17 @@
+.comments-wrapper {
+    margin-left: 4.5em;
+  }
+.comment_box {
+    margin-left: 2rem;
+    width: 400px;
+    height: 31px;
+    color: #cdcdcd;
+    background-color: #000;
+    border: 1px solid #303030;
+    outline: none;
+    padding: 10px;
+    line-height: 24px;
+    border-radius: 3px;
+    font-size: 16px;
+  }
+   /*for="floatingTextarea2" //"btn btn-outline-success"// className="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style={{height: "50px",background:"#232323"}}*/
